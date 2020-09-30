@@ -1,0 +1,7 @@
+C:\Users\karrit\source\repos\OutingGB\OutingGB\bin\Debug\OutingGB.exe.config
+C:\Users\karrit\source\repos\OutingGB\OutingGB\bin\Debug\OutingGB.exe
+C:\Users\karrit\source\repos\OutingGB\OutingGB\bin\Debug\OutingGB.pdb
+C:\Users\karrit\source\repos\OutingGB\OutingGB\obj\Debug\OutingGB.csprojAssemblyReference.cache
+C:\Users\karrit\source\repos\OutingGB\OutingGB\obj\Debug\OutingGB.csproj.CoreCompileInputs.cache
+C:\Users\karrit\source\repos\OutingGB\OutingGB\obj\Debug\OutingGB.exe
+C:\Users\karrit\source\repos\OutingGB\OutingGB\obj\Debug\OutingGB.pdb
