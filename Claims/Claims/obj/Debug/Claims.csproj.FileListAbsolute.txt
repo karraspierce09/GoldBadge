@@ -1,0 +1,7 @@
+C:\Users\karrit\source\repos\Claims\Claims\bin\Debug\Claims.exe.config
+C:\Users\karrit\source\repos\Claims\Claims\bin\Debug\Claims.exe
+C:\Users\karrit\source\repos\Claims\Claims\bin\Debug\Claims.pdb
+C:\Users\karrit\source\repos\Claims\Claims\obj\Debug\Claims.csprojAssemblyReference.cache
+C:\Users\karrit\source\repos\Claims\Claims\obj\Debug\Claims.csproj.CoreCompileInputs.cache
+C:\Users\karrit\source\repos\Claims\Claims\obj\Debug\Claims.exe
+C:\Users\karrit\source\repos\Claims\Claims\obj\Debug\Claims.pdb
